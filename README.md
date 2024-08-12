@@ -80,7 +80,7 @@ Este é um aplicativo desenvolvido em React Native, que inclui funcionalidades c
 
 ## Imagens do Aplicativo
 
-![Tela Inicial](./src/assets/home.jpg)
+![Tela Inicial](./src/assets/Home.jpg)
 *Tela inicial do aplicativo.*
 
 ![Tela Inicial](./src/assets/criacao.jpg)
@@ -89,6 +89,6 @@ Este é um aplicativo desenvolvido em React Native, que inclui funcionalidades c
 ![Edição de Post](./src/assets/edição.jpg)
 *Tela de edição de post.*
 
-![Animação na Splash Screen](./src/assets/splash.jpg)
+![Animação na Splash Screen](./src/assets/Splash.jpg)
 *Animação na splash screen usando Lottie.*
 
