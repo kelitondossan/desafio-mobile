@@ -80,7 +80,7 @@ Este é um aplicativo desenvolvido em React Native, que inclui funcionalidades c
 
 ## Imagens do Aplicativo
 
-![Tela Inicial](./src/assets/home.png)
+![Tela Inicial](./src/assets/home.jpg)
 *Tela inicial do aplicativo.*
 
 ![Tela Inicial](./src/assets/criacao.jpg)
