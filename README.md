@@ -74,9 +74,8 @@ Este é um aplicativo desenvolvido em React Native, que inclui funcionalidades c
 2. Instale as dependências com `yarn install`.
 3. Execute o comando `yarn android` ou `yarn ios` para rodar o aplicativo no emulador ou dispositivo físico.
 
-## Imagens do Aplicativo
 
-*Coloque aqui as imagens do aplicativo.*
+
 
 ## Imagens do Aplicativo
 
